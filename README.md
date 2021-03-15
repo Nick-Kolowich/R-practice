@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Drawing Flowers with Mathematics](https://github.com/Nick-Kolowich/R-practice/blob/main/Draw%20Flowers%20Using%20Mathematics/notebook.ipynb)
+- [Drawing Flowers Using Mathematics](https://github.com/Nick-Kolowich/R-practice/blob/main/Draw%20Flowers%20Using%20Mathematics/notebook.ipynb)
 - [History of Handwashing](https://github.com/Nick-Kolowich/R-practice/blob/main/History%20of%20Handwashing/notebook.ipynb)
 - [Rise and Fall of Programming Languages](https://github.com/Nick-Kolowich/R-practice/blob/main/Rise%20and%20Fall%20of%20Programming%20Languages/notebook.ipynb)
 - [Visualizing Inequalities in Life Expectancy](https://github.com/Nick-Kolowich/R-practice/blob/main/Visualizing%20Inequalities%20in%20Life%20Expectancy/notebook.ipynb)
